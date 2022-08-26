@@ -1,2 +1,1 @@
-Update README file.
-good programmer
+my first readme
